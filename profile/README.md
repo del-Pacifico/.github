@@ -6,7 +6,7 @@ Welcome to **del-Pacifico**, a GitHub organization dedicated to building high-qu
 
 ## 🚀 Featured Projects
 
-### 🌄 [Mass Image Downloader](https://github.com/del-Pacifico/Mass-Image-Downloader)
+### 🏔️ [Mass Image Downloader](https://github.com/del-Pacifico/Mass-Image-Downloader)
 A Chromium extension for automated bulk image downloads, advanced gallery detection, smart grouping, clipboard hotkeys, and more.
 
 ### 🧙‍♂️ [Unicode to PNG](https://github.com/del-Pacifico/unicode-to-png)
