@@ -65,7 +65,7 @@ We may update this policy to reflect new features or permissions. When we do, we
 
 ## 6. Contact Us 📬  
 Questions, concerns, or feedback?  
-- 🐛 Open an issue: https://github.com/del-Pacifico/privacy-policy/issues  
+- 🐛 Open an issue: https://github.com/del-Pacifico/.github/issues 
 - 📧 Email us at: **spalmah@proton.me**
 
 Thank you for choosing Del-Pacifico—where privacy and user empowerment come first! ❤️  
