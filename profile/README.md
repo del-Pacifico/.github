@@ -12,6 +12,10 @@ A Chromium extension for automated bulk image downloads, advanced gallery detect
 ### 🧙‍♂️ [Unicode to PNG](https://github.com/del-Pacifico/unicode-to-png)
 A Python utility to convert Unicode emoji into PNG files using system fonts. Ideal for emoji asset generation, custom packs, or UI prototyping.
 
+
+### 📝 [ClipSelect](https://github.com/del-Pacifico/ClipSelect) 
+Precise and intentional text copying for modern browsers.
+
 ---
 
 ## 🎯 Mission
